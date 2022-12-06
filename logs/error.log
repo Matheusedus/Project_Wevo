@@ -1,0 +1,12 @@
+2022-12-02 18:49:25 - [31merror[39m: [31m🥵 Erro![39m
+2022-12-02 18:49:25 - [31merror[39m: [31mapp.use() requires a middleware function[39m
+2022-12-03 12:03:34 - [31merror[39m: [31mPane no sistema: Unknown column 'name' in 'field list'[39m
+2022-12-03 12:04:05 - [31merror[39m: [31mPane no sistema: Unknown column 'createdAt' in 'field list'[39m
+2022-12-03 12:04:46 - [31merror[39m: [31mPane no sistema: Unknown column 'createdAt' in 'field list'[39m
+2022-12-03 12:18:20 - [31merror[39m: [31mNenhum usuário encontrado[39m
+2022-12-03 13:23:06 - [31merror[39m: [31mOut of range value for column 'telefone' at row 1[39m
+2022-12-03 13:24:24 - [31merror[39m: [31mOut of range value for column 'telefone' at row 1[39m
+2022-12-03 13:24:41 - [31merror[39m: [31mOut of range value for column 'telefone' at row 1[39m
+2022-12-03 13:27:00 - [31merror[39m: [31m✖️ Eita! Informe um ID válido![39m
+2022-12-03 13:53:18 - [31merror[39m: [31mUsuário não existe[39m
+2022-12-03 13:54:04 - [31merror[39m: [31m✖️ Eita! Informe um ID válido![39m
